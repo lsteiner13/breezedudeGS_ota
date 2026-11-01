@@ -1,0 +1,3 @@
+   [{"type":"bd-gs-stable","version":"0.7.0","host":"lsteiner13.github.io","port":443,
+     "bin":"/breezedudeGS_firmware/gs/stable/0.7.0/firmware.bin",
+     "littlefs":"/breezedudeGS_firmware/gs/stable/0.7.0/littlefs.bin"}]
